@@ -1,1 +1,1 @@
-1. Selection Sort is done using Python.
+1. **Selection Sort is done using Python.**
